@@ -1,15 +1,17 @@
 {
-  "name": "chartist-plugin-accessibility",
+  "name": "chartist-plugin-accessibility-jucombre",
   "description": "Accessibility Plugin for Chartist.js",
   "version": "0.0.4",
-  "author": "Gion Kunz",
-  "homepage": "https://gionkunz.github.io/chartist-plugin-accessibility",
+  "author": {
+    "name": "Julien C",
+    "email": "jcomdev@hotmail.fr"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gionkunz/chartist-plugin-accessibility.git"
+    "url": "https://github.com/jcombrex/chartist-plugin-accessibility.git"
   },
   "bugs": {
-    "url": "https://github.com/gionkunz/chartist-plugin-accessibility/issues"
+    "url": "https://github.com/jcombrex/chartist-plugin-accessibility/issues"
   },
   "keywords": [
     "chartist",
@@ -25,12 +27,6 @@
   ],
   "main": "dist/chartist-plugin-accessibility.js",
   "browser": "dist/chartist-plugin-accessibility.js",
-  "licenses": [
-    {
-      "type": "WTFPL",
-      "url": "https://github.com/gionkunz/chartist-plugin-accessibility/blob/master/LICENSE"
-    }
-  ],
   "dependencies": {},
   "devDependencies": {
     "grunt": "^0.4.5",
