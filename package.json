@@ -1,7 +1,7 @@
 {
   "name": "chartist-plugin-accessibility-jucombre",
   "description": "Accessibility Plugin for Chartist.js",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": {
     "name": "Julien C",
     "email": "jcomdev@hotmail.fr"
